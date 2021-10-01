@@ -1,0 +1,44 @@
+.app {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 50px;
+}
+
+
+.actions {
+  border-top: 1px solid grey;
+  margin-top: 10px;
+}
+
+.addQuestionButton {
+  margin-top: 10px;
+}
+
+.field {
+  display: flex;
+}
+
+
+.inputFieldSelectType {
+  width: 250px;
+}
+
+.choices {
+  margin-left: 25px;
+}
+
+.choice {
+  display: flex;
+  margin-top: 7px
+}
+
+.buttonAddChoice {
+  margin-top: 7px;
+  margin-left: 25px;
+}
+
+.question {
+  border-left: 3px solid blue;
+  padding-left: 5px;
+  margin-bottom: 30px;
+}
